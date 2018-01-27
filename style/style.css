@@ -1,0 +1,40 @@
+body{
+  background-color: #3a3535 !important;
+}
+.search-bar{
+  margin: 20px;
+  text-align: center;
+}
+
+.search-bar input {
+  width: 75%;
+}
+
+.video-detail .details {
+  margin-top: 10px;
+  padding: :10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.list-group-item {
+  cursor: pointer;
+  background-color: #666 !important;
+  color: white;
+}
+
+.list-group-item:hover {
+  background-color: #444 !important;
+}
+
+.details .title{
+  font-weight: bold;
+  font-style: oblique;
+  color: white;
+}
+
+.details .desc{
+  font-family:calibri;
+  font-size: 16px;
+  color: #eee;
+}
